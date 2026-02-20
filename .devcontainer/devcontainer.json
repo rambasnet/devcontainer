@@ -1,0 +1,22 @@
+{
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "-github.copilot-chat"
+      ],
+      "settings": {
+        "files.autoSave": "onFocusChange",
+        "github.copilot.enable": {
+          "*": false
+        },
+        "github.chat.agent.enabled": false,
+        "github.copilot.chat.agent.autoFix": false,
+        "github.copilot.inlineSuggest.enable": false,
+        "chat.commandCenter.enabled": false,
+        "chat.disableAIFeatures": true,
+        // disable github copilot status bar item
+        "github.copilot.statusBar.enable": false
+      }
+    }
+  }
+}
