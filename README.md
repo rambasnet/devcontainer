@@ -5,7 +5,7 @@
 | **Course**          | Course Name |
 | **Semester**        | Fall 2020   |
 | **Student Name**    | John Doe    |
-| **GitHub Username** | gituser123  |
+| **GitHub Username** | gituser1234 |
 
 ## Assignments
 
